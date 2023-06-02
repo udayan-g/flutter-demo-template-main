@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "780434178739",
+    "project_id": "ph-sensor-f76f5",
+    "storage_bucket": "ph-sensor-f76f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780434178739:android:aaa46e40732f80f047e6c6",
+        "android_client_info": {
+          "package_name": "everok.iot.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780434178739-7l7jmpbnna3icmidivanvvrve4isk1c1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "everok.iot.android",
+            "certificate_hash": "b0b316f28424f9bd54e7204854e8b74350b16835"
+          }
+        },
+        {
+          "client_id": "780434178739-j0rd89s1071ko50h6qrt544rci9lavvu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_IYszzAyzB4V8JT4DrgZ0ipMNhSSBIao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780434178739-j0rd89s1071ko50h6qrt544rci9lavvu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
